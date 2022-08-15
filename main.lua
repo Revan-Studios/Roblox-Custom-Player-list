@@ -1,5 +1,3 @@
--- Decompiled with the Synapse X Luau decompiler.
-
 while true do
 	wait();
 	if game.Players.LocalPlayer.Character and game.Players.LocalPlayer:FindFirstChild("Stats") and game.Players.LocalPlayer:FindFirstChild("Stats"):FindFirstChild("House") then
